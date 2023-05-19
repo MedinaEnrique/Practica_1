@@ -9,7 +9,6 @@
     border-top-color: aqua;
     border-left-color: blueviolet;
     border-right-color: brown;
-    background-color: skyblue;
 }
 
 #cuadrado1 {
@@ -44,13 +43,5 @@
     position: absolute;
     top: 400px;
     left: 400px;   
-}  
-body{
-    background-color: skyblue;
-}
-#cuadradosContainer img:target {
-    display: block;
-}
-#cuadradosContainer img {
-    display: none;
-}
+} 
+
