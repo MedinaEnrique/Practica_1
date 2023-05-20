@@ -45,3 +45,11 @@
     left: 400px;   
 } 
 
+img:hover {
+    border: 3px solid rgb(14, 237, 44);
+    z-index: 1;
+}
+
+img:hover~img {
+    display: none;
+}
